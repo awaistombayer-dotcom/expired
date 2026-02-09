@@ -13,7 +13,7 @@
   "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
   "btn_update": "Update Now",
   "btn_exit": "Exit",
-  "link": "https://t.me/EpicModsChannel"
+  "link": "https://chat.whatsapp.com/Kinig3bmrNvKFFxvGPl0kA"
 }
 
 
