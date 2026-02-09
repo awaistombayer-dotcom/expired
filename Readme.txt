@@ -7,7 +7,7 @@
                         
                         {
   "credit": "MR. AWais",
-  "show_dialog": true,
+  "show_dialog": false,
   "title": "🚀 Update Available",
   "subtitle": "✨ New Version Release ✨",
   "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
